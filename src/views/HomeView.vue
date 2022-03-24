@@ -16,8 +16,8 @@
       <v-container>
         <v-card height=50 image="https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"></v-card>
         <h1 style="font-size: 2.25em;margin-left: 0.5em;margin-bottom: 0.7em;margin-top: 0.5em">Zhou Yubo</h1>
-        <v-btn href="/" variant="plain" prepend-icon="mdi-earth" class="linkBtn">www.albertcamus.xyz</v-btn><br/>
-        <v-btn href="mailto:zhou-yubo@qq.com" variant="plain" prepend-icon="mdi-email" class="linkBtn">zhou-yubo@qq.com</v-btn><br/>
+        <v-btn href="/" variant="plain" prepend-icon="mdi-earth" class="linkBtn">www.XXXXX.xyz</v-btn><br/>
+        <v-btn href="mailto:xxx@xx.com" variant="plain" prepend-icon="mdi-email" class="linkBtn">xxx@xx.com</v-btn><br/>
         <v-btn href="/Blog" variant="plain" prepend-icon="mdi-microsoft-bing" class="linkBtn">My Blog</v-btn><br/>
         <v-btn href="https://github.com/SherlockZYB" variant="plain" prepend-icon="mdi-github" class="linkBtn">SherlockZYB</v-btn><br/>
         <v-btn class="linkBtn" href="/cv-en.pdf" variant="plain" prepend-icon="mdi-newspaper-variant-outline">CV</v-btn>
@@ -78,7 +78,7 @@
         <br/>
         <div style="text-align: left">
           <v-btn class="linkBtn" href="/" style="margin-right: 1em;margin-bottom: 1.5em" prepend-icon="mdi-earth">Homepage</v-btn>
-          <v-btn class="linkBtn" href="mailto:zhou-yubo@qq.com" style="margin-right: 1em;margin-bottom: 1.5em" prepend-icon="mdi-email">Email</v-btn>
+          <v-btn class="linkBtn" href="mailto:xxx@xx.com" style="margin-right: 1em;margin-bottom: 1.5em" prepend-icon="mdi-email">Email</v-btn>
           <v-btn class="linkBtn" href="/Blog" style="margin-right: 1em;margin-bottom: 1.5em" prepend-icon="mdi-microsoft-bing">Blog</v-btn>
           <v-btn class="linkBtn" href="https://github.com/SherlockZYB" style="margin-right: 1em;margin-bottom: 1.5em" prepend-icon="mdi-github">Github</v-btn>
           <v-btn class="linkBtn" href="/cv-en.pdf" style="margin-right: 1em;margin-bottom: 1.5em" prepend-icon="mdi-newspaper-variant-outline">CV</v-btn>
